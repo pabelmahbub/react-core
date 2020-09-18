@@ -42,7 +42,7 @@ function Product(props){
 
 
 function Person(){
-  return <h1>Tohfatul Jannat</h1>
+  return <h1>Aftab</h1>
 }
 function Love(props){
   return(
